@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="PixysOS-Devices/vendor_zuk" path="vendor/zuk" remote="github" revision="eleven" />
+<project name="PixysOS-Devices/device_zuk_z2_plus" path="device/zuk/z2_plus" remote="github" revision="eleven"/>
+<project name="PixysOS-Devices/device_zuk_msm8996-common" path="device/zuk/msm8996-common" remote="github" revision="eleven"/>
+<project name="PixysOS-Devices/kernel_zuk_msm8996" path="kernel/zuk/msm8996-common" remote="github" revision="eleven"/>
+</manifest>
